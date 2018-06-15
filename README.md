@@ -1,8 +1,8 @@
-# MERN-boilerplate
+# IGT
 
 This is a boilerplate project using the following technologies:
 - [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
-- [Express](http://expressjs.com/) and [Mongoose](http://mongoosejs.com/) for the backend
+- [Express](http://expressjs.com/) for the backend service
 - [Sass](http://sass-lang.com/) for styles (using the SCSS syntax)
 - [Webpack](https://webpack.github.io/) for compilation
 
@@ -17,8 +17,6 @@ npm install
 
 
 ## Running
-
-Make sure to add a `config.js` file in the `config` folder. See the example there for more details.
 
 Production mode:
 
