@@ -1,8 +1,8 @@
 # IGT
 
 This is a Mock Service project using the following technologies:
-- [React](https://facebook.github.io/react/) and [React Router](https://reacttraining.com/react-router/) for the frontend
-- [Express](http://expressjs.com/) for the backend service
+- [React](https://facebook.github.io/react/) for the frontend
+- [Express](http://expressjs.com/) for the backend mock service
 - [Sass](http://sass-lang.com/) for styles (using the SCSS syntax)
 - [Webpack](https://webpack.github.io/) for compilation
 
